@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2157c713.css",
+    "main.js": "/static/js/main.59516e0c.js",
+    "static/js/453.4766506c.chunk.js": "/static/js/453.4766506c.chunk.js",
+    "static/media/login-background.jpeg": "/static/media/login-background.242d3fa9903397f77fac.jpeg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/image4.png": "/static/media/image4.e7a178e50d29c1c2b8aa.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/Rahuri-logo.png": "/static/media/Rahuri-logo.70895b66bcfd49897a38.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/cowpic.jpg": "/static/media/cowpic.3c0debdd58e7e1ce63f9.jpg",
+    "static/media/siphonPic.png": "/static/media/siphonPic.2c8421179583d8fb1565.png",
+    "static/media/soil-moisture-sensor.png": "/static/media/soil-moisture-sensor.f71914b55699f70b0762.png",
+    "static/media/QualdenLogo.png": "/static/media/QualdenLogo.6ae7ce6b2be87cca3228.png",
+    "index.html": "/index.html",
+    "main.2157c713.css.map": "/static/css/main.2157c713.css.map",
+    "main.59516e0c.js.map": "/static/js/main.59516e0c.js.map",
+    "453.4766506c.chunk.js.map": "/static/js/453.4766506c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2157c713.css",
+    "static/js/main.59516e0c.js"
+  ]
+}
